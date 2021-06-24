@@ -232,6 +232,8 @@ img.program {
     font-weight: bold;
     margin: 114px auto 20px;
     line-height: 42px;
+    display: flex;
+    justify-content: center;
 }
 
 .quest {
@@ -246,8 +248,8 @@ img.program {
 
 .button {
     width: 130px;
-    height: 23px;
-    padding: 13px 29px 6px;
+    height: 26px;
+    padding: 13px 28px 6px 30px;
     border-radius: 42px;
     background-color: black;
     color: white;
@@ -255,6 +257,7 @@ img.program {
     font-weight: bold;
     margin: 30px auto 86px;
     line-height: 22px;
+    text-align: center;
 }
 
 .links {
